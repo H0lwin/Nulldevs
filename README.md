@@ -59,4 +59,4 @@ _Last updated: **2025/06/20 – 16:44**
 by [H0lwin](https://t.me/H0lwin_P)_
 
 ---
-Made with 🖤 by [NullDevs](https://github.com/yourusername/nulldevs)
+Made with 🖤 by [NullDevs](https://github.com/H0lwin/nulldevs)
