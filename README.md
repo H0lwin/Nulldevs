@@ -11,7 +11,6 @@
 - [Vee Shop](https://v0-vee-shop-website.vercel.app/)
 - [Vee VPN Landing](https://v0-vee-vpn-landing-page.vercel.app/)
 - [Zobizir Business](https://v0-zobizir.vercel.app/)
-- [Zobiz Platform](https://v0-zobizplatform.vercel.app/)
 - [Persian Bazaar](https://v0-persianecommerce-no5wvx.vercel.app/)
 
 ---
